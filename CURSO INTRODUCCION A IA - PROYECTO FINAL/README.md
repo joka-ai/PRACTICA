@@ -75,4 +75,4 @@ El desarrollo individual permitió profundizar en cada etapa y consolidar los co
 
 <img width="1920" height="1080" alt="Captura de pantalla 2026-01-02 001450" src="https://github.com/user-attachments/assets/a17b531c-1f99-446f-b004-f7ee42e4e156" />
 <img width="1920" height="1080" alt="Captura de pantalla 2026-01-02 001551" src="https://github.com/user-attachments/assets/7232e345-1def-44e1-afbe-8b18a39924dc" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d1f78db-9573-4d59-b871-546422ed4386" />
